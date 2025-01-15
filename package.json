@@ -1,14 +1,14 @@
 {
-  "name": "fs-extra",
-  "version": "11.2.0",
+  "name": "type-fs-extra",
+  "version": "1.2.0",
   "description": "fs-extra contains methods that aren't included in the vanilla Node.js fs package. Such as recursive mkdir, copy, and remove.",
   "engines": {
     "node": ">=14.14"
   },
-  "homepage": "https://github.com/jprichardson/node-fs-extra",
+  "homepage": "https://github.com/YaniraMcLean/node-fs-extra",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jprichardson/node-fs-extra"
+    "url": "https://github.com/YaniraMcLean/node-fs-extra"
   },
   "keywords": [
     "fs",
@@ -34,7 +34,7 @@
     "move",
     "promise"
   ],
-  "author": "JP Richardson <jprichardson@gmail.com>",
+  "author": "YaniraMcLean <YaniraMcLean@outlook.com>",
   "license": "MIT",
   "dependencies": {
     "graceful-fs": "^4.2.0",
